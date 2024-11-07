@@ -1,4 +1,6 @@
 # Hades-SOC
+![home](assets/home.png)
+
 Description: Hades-Soc Tools is a cybersecurity application designed to help IT professionals and security teams check the reputation and potential malicious activity of suspicious IP addresses. It combines two leading APIs-AbuseIPDB and CriminalIP-to provide a clear picture of whether an IP has been involved in malicious activity, such as DDoS attacks, spam, or other network attacks.
 
 # By using Hades-Soc Tools, users can:
@@ -11,6 +13,8 @@ Description: Hades-Soc Tools is a cybersecurity application designed to help IT 
 - AbuseIPDB Report: Provides up-to-date data on IP abuse reports in various threat categories.
 - CriminalIP Summary: Provides a complete overview of IP involvement in criminal activity and potential risks to your organization.
 - Easy to Use Interface: Allows users to enter an IP address and instantly get easy-to-understand analysis results.
+
+![result](assets/result.png)
 
 # Suitable for:
 Network security professionals and teams
